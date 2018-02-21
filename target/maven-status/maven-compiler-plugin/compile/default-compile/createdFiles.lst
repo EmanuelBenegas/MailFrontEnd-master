@@ -1,0 +1,4 @@
+com\Client\Response\Mensaje.class
+com\Client\Response\User.class
+com\Client\config\SpringBootWebApplication.class
+com\Client\Controller\LoginController.class
